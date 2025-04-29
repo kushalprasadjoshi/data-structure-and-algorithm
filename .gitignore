@@ -1,9 +1,3 @@
-# Ignore all log files
-*.log
-
-# Ignore all the temporary files
-*.tmp
-
 # Ignore all the executable files
 *.exe
 
